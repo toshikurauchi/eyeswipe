@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/ClickSound.wav</file>
+        <file>resources/palavras.txt</file>
+        <file>resources/sentencesEN.txt</file>
+        <file>resources/sentencesPT.txt</file>
+        <file>resources/words_mck.txt</file>
+        <file>resources/palavras-freq.csv</file>
+        <file>resources/frases_gravadas.txt</file>
+        <file>resources/recorded_sentences.txt</file>
+        <file>resources/recorded_sentencesEN.txt</file>
+    </qresource>
+</RCC>

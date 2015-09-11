@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>eyeswipeqml/Arrow.qml</file>
+        <file>eyeswipeqml/BaseStateMachine.qml</file>
+        <file>eyeswipeqml/DwellTutorial.qml</file>
+        <file>eyeswipeqml/experimentPopup.qml</file>
+        <file>eyeswipeqml/EyeSwipeStateMachine.qml</file>
+        <file>eyeswipeqml/gaze.js</file>
+        <file>eyeswipeqml/GazeShape.qml</file>
+        <file>eyeswipeqml/GestureKey.qml</file>
+        <file>eyeswipeqml/GestureKeyboardWindow.qml</file>
+        <file>eyeswipeqml/GestureTutorial.qml</file>
+        <file>eyeswipeqml/i18n.js</file>
+        <file>eyeswipeqml/KBButton.qml</file>
+        <file>eyeswipeqml/KBPeyeRegion.qml</file>
+        <file>eyeswipeqml/KBRegion.qml</file>
+        <file>eyeswipeqml/Key.qml</file>
+        <file>eyeswipeqml/KeyboardProgressBar.qml</file>
+        <file>eyeswipeqml/KeyboardState.qml</file>
+        <file>eyeswipeqml/KeyboardStatePeyeMenu.qml</file>
+        <file>eyeswipeqml/KeyboardStateTransition.qml</file>
+        <file>eyeswipeqml/KeyboardStateTransitionPeye.qml</file>
+        <file>eyeswipeqml/KeyboardWindow.qml</file>
+        <file>eyeswipeqml/LiveGazeShape.qml</file>
+        <file>eyeswipeqml/main_delete.qml</file>
+        <file>eyeswipeqml/main.qml</file>
+        <file>eyeswipeqml/PEyeButton.qml</file>
+        <file>eyeswipeqml/PEyeMenu.qml</file>
+        <file>eyeswipeqml/setup.qml</file>
+        <file>eyeswipeqml/SmartTextField.qml</file>
+        <file>eyeswipeqml/TextFieldToken.js</file>
+        <file>eyeswipeqml/Tutorial.js</file>
+        <file>eyeswipeqml/Tutorial.qml</file>
+        <file>eyeswipeqml/TypingActivation.qml</file>
+        <file>window-test.qml</file>
+    </qresource>
+</RCC>
